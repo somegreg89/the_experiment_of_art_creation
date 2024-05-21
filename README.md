@@ -10,6 +10,11 @@ With the space bar, you set the starting point of the line, and after you releas
 * Z key is for undo the line (only one time)
 * H key is for hide the grid image so you can see crearly what you drew
 
+# Questions to answer
+1. Who caused the line?
+2. Who decided about the line?
+3. What caused that set of decisions?
+
 # Encourange
 If you want to improve it or make your own implementation, you just need to follow these rules:
 
