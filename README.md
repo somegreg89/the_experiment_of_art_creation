@@ -1,6 +1,6 @@
 # The Experiment of Art Creation
 
-[Experiment Demo](./Experiment Demo - Man.png)
+![Experiment Demo](./experiment_demo_man.jpg)
 
 Here you find my implementation of this experiment which we observe what creation actually is.
 
