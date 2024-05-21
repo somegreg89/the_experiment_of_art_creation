@@ -1,5 +1,7 @@
 # The Experiment of Art Creation
 
+[Experiment Demo](./Experiment Demo - Man.png)
+
 Here you find my implementation of this experiment which we observe what creation actually is.
 
 My pygame skills are not good and this is literally my first pygame program, so there may be things that could be done much better.
